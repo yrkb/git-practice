@@ -3,4 +3,4 @@
 更新
 rebase-practiceブランチで変更2回目
 rebase
-stash練習（track済）
+stash練習（2nd）
